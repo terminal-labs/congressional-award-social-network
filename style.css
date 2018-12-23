@@ -61,17 +61,18 @@ body {
 #menu-top a:hover span {	background-position:100% -42px; }
 
 #wrapper-header { background: transparent url('images/bg.png') top center repeat-x; }
-#header { background: transparent url('images/banner_mountains.jpg') no-repeat center top; }
+#header { background: transparent url('images/blue.jpg') top center no-repeat; }
 #wrapper-header2 { background: transparent url('images/bg02-blue-left.png') top left no-repeat; }
 #wrapper-header3 { background: transparent url('images/bg02-blue-right.png') top right no-repeat; }
 
 #header h1 {
-	margin: 0 0 0 20px;
+
+	margin: 0 0 0 500px;
 	padding: 0;
 	height: 192px;
 	line-height: 3em;
 	color: #ccc;
-	font-size: 130%;
+	font-size: 150%;
 }
 
 #wrapper-content { background: white url('images/bg02-white-left.png') no-repeat left top; }
@@ -85,7 +86,7 @@ body {
 #menu-page {
 	float: right;
 	width:180px;
-	margin: 20px 30px 3em 2em;
+	margin: 0;
 	background: transparent url('images/menu.png') no-repeat;
 	text-align: center;
 	line-height: 140%;
